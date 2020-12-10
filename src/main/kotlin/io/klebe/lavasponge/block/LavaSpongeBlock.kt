@@ -43,7 +43,7 @@ object LavaSpongeBlock : Block(
 
     private fun update(world: World, pos: BlockPos) {
         if (absorbWater(world, pos)) {
-            world.setBlockState(pos, Blocks.WET_SPONGE.defaultState, 2)
+            world.setBlockState(pos, WetLavaSpongeBlock.defaultState, 2)
             world.syncWorldEvent(2001, pos, getRawIdFromState(Blocks.LAVA.defaultState))
         }
     }
