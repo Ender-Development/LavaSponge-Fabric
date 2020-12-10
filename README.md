@@ -1,5 +1,12 @@
+<img src="icon.png" align="left" width="180px"/>
+
 # LavaSponge
-A Nether alternative to the normal sponge. Removes Lava instead of Water.
+
+[![](https://img.shields.io/github/license/Ender-Development/LavaSponge.svg)](LICENSE) [![](https://img.shields.io/github/release/Ender-Development/LavaSponge.svg)](https://github.com/Ender-Development/LavaSponge/releases) ![](http://cf.way2muchnoise.eu/versions/minecraft_lavasponge-fabric_all.svg) [![](http://cf.way2muchnoise.eu/lavasponge-fabric.svg)](https://minecraft.curseforge.com/projects/lavasponge-fabric)
+
+*Dry the Nether!* • [Downloads](https://github.com/Ender-Development/LavaSponge/releases) • [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lavasponge-fabric)
+
+<p>&nbsp;</p>
 
 ## Introduction
 
@@ -15,7 +22,7 @@ The VMC (short for `Vanilla+ Mod Collection`) is a assortment of small mods, whi
 
 Our Team currently includes:
 
-`_MasterEnderman_` - Project-Manager, Artist, Developer
+`_MasterEnderman_` - Project-Manager, Lead-Artist, Developer
 
 - BuyMeACoffee: <https://www.buymeacoffee.com/masterenderman>
 - Curseforge: <https://minecraft.curseforge.com/members/Bitfabrik>
