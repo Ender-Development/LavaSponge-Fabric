@@ -15,7 +15,7 @@ import net.minecraft.world.World
 object WetLavaSpongeBlock : Block(
     FabricBlockSettings.of(Material.SPONGE)
         .strength(1F)
-        .sounds(BlockSoundGroup.STONE)) {
+        .sounds(BlockSoundGroup.GRAVEL)) {
 
     override fun onBlockAdded(
         state: BlockState?,

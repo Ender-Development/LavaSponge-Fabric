@@ -9,4 +9,4 @@ object ColdLavaSpongeBlock : Block(
     FabricBlockSettings.of(Material.STONE)
         .requiresTool()
         .strength(20.0F, 1200.0F)
-        .sounds(BlockSoundGroup.GRASS)) {}
+        .sounds(BlockSoundGroup.STONE)) {}
