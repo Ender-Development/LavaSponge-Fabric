@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "lavasponge",
+  "version": "${version}",
+
+  "name": "Lava Sponge",
+  "description": "Adds sponges, which absorb lava.",
+  "authors": [
+    "Ender-Development"
+  ],
+  "contact": {
+    "homepage": "https://pixel-friends.com",
+    "sources": "https://github.com/Ender-Development/LavaSponge"
+  },
+
+  "license": "MIT",
+  "icon": "assets/lavasponge/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      {
+        "adapter": "kotlin",
+        "value": "io.klebe.lavasponge.LavaSponge"
+      }
+    ]
+  },
+  "mixins": [
+    "lavasponge.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.8.7",
+    "fabric": "*",
+    "fabric-language-kotlin": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
