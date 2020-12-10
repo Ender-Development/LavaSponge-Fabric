@@ -1,4 +1,4 @@
-<img src="icon.png" align="left" width="180px"/>
+<img src="src/main/resources/assets/lavasponge/icon.png" align="left" width="180px"/>
 
 # LavaSponge
 
