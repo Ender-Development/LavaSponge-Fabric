@@ -3,11 +3,11 @@ package io.klebe.lavasponge
 import io.klebe.lavasponge.block.ColdLavaSpongeBlock
 import io.klebe.lavasponge.block.LavaSpongeBlock
 import io.klebe.lavasponge.block.WetLavaSpongeBlock
-import kotlinx.coroutines.runBlocking
 import net.fabricmc.api.ModInitializer
 import net.minecraft.block.Block
 import net.minecraft.item.BlockItem
 import net.minecraft.item.Item
+import net.minecraft.item.ItemGroup
 import net.minecraft.util.Identifier
 import net.minecraft.util.registry.Registry
 import org.apache.logging.log4j.LogManager
@@ -20,7 +20,14 @@ object LavaSponge : ModInitializer {
 
     private fun registerBlock(block: Block, id: String) {
         Registry.register(Registry.BLOCK, Identifier(MODID, id), block)
-        Registry.register(Registry.ITEM, Identifier(MODID, id), BlockItem(block, Item.Settings()))
+        Registry.register(Registry.ITEM, Identifier(MODID, id),
+            BlockItem(
+                block,
+                Item.Settings()
+                    .group(ItemGroup.BUILDING_BLOCKS)
+                    .fireproof()
+            )
+        )
     }
 
     override fun onInitialize() {
