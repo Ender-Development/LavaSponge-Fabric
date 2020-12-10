@@ -23,7 +23,7 @@ object LavaSponge : ModInitializer {
         Registry.register(Registry.ITEM, Identifier(MODID, id), BlockItem(block, Item.Settings()))
     }
 
-    override fun onInitialize() = runBlocking {
+    override fun onInitialize() {
         log.info("Start initialization")
 
         registerBlock(LavaSpongeBlock, "lavasponge")
