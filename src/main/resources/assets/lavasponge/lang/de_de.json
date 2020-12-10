@@ -1,5 +1,5 @@
 {
   "block.lavasponge.lavasponge" : "Lava Schwamm",
-  "block.lavasponge.cold_lavasponge" : "Kalter Lava Schwamm",
-  "block.lavasponge.wet_lavasponge" : "Nasser Lava Schwamm",
+  "block.lavasponge.coldlavasponge" : "Kalter Lava Schwamm",
+  "block.lavasponge.wetlavasponge" : "Nasser Lava Schwamm",
 }
