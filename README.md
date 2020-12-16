@@ -2,7 +2,7 @@
 
 # LavaSponge
 
-[![](https://img.shields.io/github/license/Ender-Development/LavaSponge.svg)](LICENSE) [![](https://img.shields.io/github/release/Ender-Development/LavaSponge.svg)](https://github.com/Ender-Development/LavaSponge/releases) ![](http://cf.way2muchnoise.eu/versions/minecraft_lavasponge-fabric_all.svg) [![](http://cf.way2muchnoise.eu/lavasponge-fabric.svg)](https://minecraft.curseforge.com/projects/lavasponge-fabric)
+[![Gradle build](https://github.com/Ender-Development/LavaSponge/workflows/Gradle%20build/badge.svg)](https://github.com/Ender-Development/LavaSponge/actions) [![](https://img.shields.io/github/license/Ender-Development/LavaSponge.svg)](LICENSE) [![](https://img.shields.io/github/release/Ender-Development/LavaSponge.svg)](https://github.com/Ender-Development/LavaSponge/releases) ![](http://cf.way2muchnoise.eu/versions/minecraft_lavasponge-fabric_all.svg) [![](http://cf.way2muchnoise.eu/lavasponge-fabric.svg)](https://minecraft.curseforge.com/projects/lavasponge-fabric)
 
 *Dry the Nether!* • [Downloads](https://github.com/Ender-Development/LavaSponge/releases) • [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lavasponge-fabric)
 
@@ -28,9 +28,9 @@ Our Team currently includes:
 `_MasterEnderman_` - Project-Manager, Lead-Artist, Developer
 
 - BuyMeACoffee: <https://www.buymeacoffee.com/masterenderman>
-- Curseforge: <https://minecraft.curseforge.com/members/Bitfabrik>
+- Curseforge: <https://www.curseforge.com/members/endermanwhosearchthebeast/projects>
 - Discord: <https://discord.gg/JF7x2vG>
-- Github: <https://github.com/masterenderman>
+- GitHub: <https://github.com/masterenderman>
 - Patreon: <https://www.patreon.com/_masterenderman_>
 - Twitch: <https://www.twitch.tv/endermanwhosearchthebeast>
 - Twitter: <https://twitter.com/_bitfabrik_>
@@ -38,9 +38,9 @@ Our Team currently includes:
 
 `Klebestreifen` - Lead-Developer, Artist
 
-- Curseforge: <https://www.curseforge.com/members/klebe99336644>
+- Curseforge: <https://www.curseforge.com/members/klebe0815/projects>
 - Discord: <https://discord.gg/nva5gGt>
-- Github: <https://github.com/Klebestreifen>
+- GitHub: <https://github.com/Klebestreifen>
 - Website: <https://klebe.io/>
 
 ## Community ##
