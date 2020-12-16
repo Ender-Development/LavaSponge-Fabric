@@ -21,7 +21,7 @@ To dry a Lava Sponge it needs to be placed in the Overworld, where it will cool 
 
 The VMC (short for `Vanilla+ Mod Collection`) is a assortment of small mods, which aims to enhance the user experience and offer a wide range of single purpose mods while staying as vanilla-ish as possible.
 
-## Ender-Development
+## [Ender-Development](https://github.com/Ender-Development)
 
 Our Team currently includes:
 
@@ -41,9 +41,10 @@ Our Team currently includes:
 - Curseforge: <https://www.curseforge.com/members/klebe0815/projects>
 - Discord: <https://discord.gg/nva5gGt>
 - GitHub: <https://github.com/Klebestreifen>
+- Twitch: <https://www.twitch.tv/klebe0815>
 - Website: <https://klebe.io/>
 
-## Community ##
+## Community
 
 Ender-Development is part of a Gaming Community called `Pixel-Friends.com`
 
