@@ -4,7 +4,7 @@
 
 [![Gradle build](https://github.com/Ender-Development/LavaSponge-Fabric/workflows/Gradle%20build/badge.svg)](https://github.com/Ender-Development/LavaSponge-Fabric/actions) [![](https://img.shields.io/github/license/Ender-Development/LavaSponge-Fabric.svg)](LICENSE) [![](https://img.shields.io/github/release/Ender-Development/LavaSponge-Fabric.svg)](https://github.com/Ender-Development/LavaSponge-Fabric/releases) ![](http://cf.way2muchnoise.eu/versions/minecraft_lavasponge-fabric_all.svg) [![](http://cf.way2muchnoise.eu/lavasponge-fabric.svg)](https://minecraft.curseforge.com/projects/lavasponge-fabric)
 
-*Dry the Nether!* • [Downloads](https://github.com/Ender-Development/LavaSponge-Fabric/releases) • [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lavasponge-fabric)
+*Dry the Nether!* • [Downloads](https://github.com/Ender-Development/LavaSponge-Fabric/releases) • [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lavasponge-fabric) • [Modrinth](https://modrinth.com/mod/lavasponge-fabric)
 
 <p>&nbsp;</p>
 
