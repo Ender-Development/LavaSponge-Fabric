@@ -39,18 +39,7 @@ Our Team currently includes:
 `Klebestreifen` - Lead-Developer, Artist
 
 - Curseforge: <https://www.curseforge.com/members/klebe0815/projects>
-- Discord: <https://discord.gg/nva5gGt>
+- Discord User: klebestreifen
 - GitHub: <https://github.com/Klebestreifen>
 - Twitch: <https://www.twitch.tv/klebe0815>
 - Website: <https://klebe.io/>
-
-## Community
-
-Ender-Development is part of a Gaming Community called `Pixel-Friends.com`
-
-- Website: <https://pixel-friends.com>
-- Facebook: <http://facebook.com/GrischaNetwork/>
-- Twitter: <http://twitter.com/GrischaNetwork>
-- Twitch: <http://twitch.tv/grischabock>
-- Steam: <http://steamcommunity.com/groups/Pixel-Friends>
-- Instagram: <http://instagram.com/grischanetwork>
