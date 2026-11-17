@@ -17,29 +17,6 @@ To dry a Lava Sponge it needs to be placed in the Overworld, where it will cool 
 
 (FYI: They won't get destroyed in lava or fire.)
 
-## Vanilla+ Mod Collection
+## Archive Note
 
-The VMC (short for `Vanilla+ Mod Collection`) is a assortment of small mods, which aims to enhance the user experience and offer a wide range of single purpose mods while staying as vanilla-ish as possible.
-
-## [Ender-Development](https://github.com/Ender-Development)
-
-Our Team currently includes:
-
-`_MasterEnderman_` - Project-Manager, Lead-Artist, Developer
-
-- BuyMeACoffee: <https://www.buymeacoffee.com/masterenderman>
-- Curseforge: <https://www.curseforge.com/members/endermanwhosearchthebeast/projects>
-- Discord: <https://discord.gg/JF7x2vG>
-- GitHub: <https://github.com/masterenderman>
-- Patreon: <https://www.patreon.com/_masterenderman_>
-- Twitch: <https://www.twitch.tv/endermanwhosearchthebeast>
-- Twitter: <https://twitter.com/_bitfabrik_>
-- Youtube: <https://www.youtube.com/user/xxmasterendermanxx>
-
-`Klebestreifen` - Lead-Developer, Artist
-
-- Curseforge: <https://www.curseforge.com/members/klebe0815/projects>
-- Discord User: klebestreifen
-- GitHub: <https://github.com/Klebestreifen>
-- Twitch: <https://www.twitch.tv/klebe0815>
-- Website: <https://klebe.io/>
+This project is archived as of 17th November 2026. It stays here for educational purpose only. Do not expect any further updates.
